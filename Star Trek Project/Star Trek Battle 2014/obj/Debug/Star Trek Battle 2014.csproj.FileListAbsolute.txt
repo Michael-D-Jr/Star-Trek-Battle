@@ -1,0 +1,24 @@
+c:\users\hwcox\documents\visual studio 2012\Projects\Star Trek Battle 2014\Star Trek Battle 2014\bin\Debug\Star Trek Battle 2014.exe.config
+c:\users\hwcox\documents\visual studio 2012\Projects\Star Trek Battle 2014\Star Trek Battle 2014\obj\Debug\Star Trek Battle 2014.csprojResolveAssemblyReference.cache
+c:\users\hwcox\documents\visual studio 2012\Projects\Star Trek Battle 2014\Star Trek Battle 2014\bin\Debug\Star Trek Battle 2014.exe
+c:\users\hwcox\documents\visual studio 2012\Projects\Star Trek Battle 2014\Star Trek Battle 2014\bin\Debug\Star Trek Battle 2014.pdb
+c:\users\hwcox\documents\visual studio 2012\Projects\Star Trek Battle 2014\Star Trek Battle 2014\obj\Debug\Star Trek Battle 2014.exe
+c:\users\hwcox\documents\visual studio 2012\Projects\Star Trek Battle 2014\Star Trek Battle 2014\obj\Debug\Star Trek Battle 2014.pdb
+D:\bubba\Documents\Visual Studio-SGD 213\Star Trek Battle 2014 - Starting Point\Star Trek Battle 2014\bin\Debug\Star Trek Battle 2014.exe.config
+D:\bubba\Documents\Visual Studio-SGD 213\Star Trek Battle 2014 - Starting Point\Star Trek Battle 2014\bin\Debug\Star Trek Battle 2014.exe
+D:\bubba\Documents\Visual Studio-SGD 213\Star Trek Battle 2014 - Starting Point\Star Trek Battle 2014\bin\Debug\Star Trek Battle 2014.pdb
+D:\bubba\Documents\Visual Studio-SGD 213\Star Trek Battle 2014 - Starting Point\Star Trek Battle 2014\obj\Debug\Star Trek Battle 2014.csprojAssemblyReference.cache
+D:\bubba\Documents\Visual Studio-SGD 213\Star Trek Battle 2014 - Starting Point\Star Trek Battle 2014\obj\Debug\Star Trek Battle 2014.exe
+D:\bubba\Documents\Visual Studio-SGD 213\Star Trek Battle 2014 - Starting Point\Star Trek Battle 2014\obj\Debug\Star Trek Battle 2014.pdb
+D:\bubba\Documents\Visual Studio-SGD 213\Star Trek Project\Star Trek Battle 2014\bin\Debug\Star Trek Battle 2014.exe.config
+D:\bubba\Documents\Visual Studio-SGD 213\Star Trek Project\Star Trek Battle 2014\bin\Debug\Star Trek Battle 2014.exe
+D:\bubba\Documents\Visual Studio-SGD 213\Star Trek Project\Star Trek Battle 2014\bin\Debug\Star Trek Battle 2014.pdb
+D:\bubba\Documents\Visual Studio-SGD 213\Star Trek Project\Star Trek Battle 2014\obj\Debug\Star Trek Battle 2014.csprojAssemblyReference.cache
+D:\bubba\Documents\Visual Studio-SGD 213\Star Trek Project\Star Trek Battle 2014\obj\Debug\Star Trek Battle 2014.exe
+D:\bubba\Documents\Visual Studio-SGD 213\Star Trek Project\Star Trek Battle 2014\obj\Debug\Star Trek Battle 2014.pdb
+D:\bubba\Documents\Homework Check\Star Trek Project\Star Trek Battle 2014\bin\Debug\Star Trek Battle 2014.exe.config
+D:\bubba\Documents\Homework Check\Star Trek Project\Star Trek Battle 2014\bin\Debug\Star Trek Battle 2014.exe
+D:\bubba\Documents\Homework Check\Star Trek Project\Star Trek Battle 2014\bin\Debug\Star Trek Battle 2014.pdb
+D:\bubba\Documents\Homework Check\Star Trek Project\Star Trek Battle 2014\obj\Debug\Star Trek Battle 2014.csprojAssemblyReference.cache
+D:\bubba\Documents\Homework Check\Star Trek Project\Star Trek Battle 2014\obj\Debug\Star Trek Battle 2014.exe
+D:\bubba\Documents\Homework Check\Star Trek Project\Star Trek Battle 2014\obj\Debug\Star Trek Battle 2014.pdb
